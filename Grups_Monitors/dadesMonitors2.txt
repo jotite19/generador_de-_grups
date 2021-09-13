@@ -1,0 +1,132 @@
+Elia
+Joan
+Albert
+Merce
+Maria
+Biel
+Paula
+ClaraS
+Guim
+Iu
+Joaquim
+Iker
+Ona
+Jana
+MdM
+Nil
+Victor
+Laia
+Benat
+Helena
+break
+
+A X M T B .
+X T M A B .
+M A X T B .
+M X T B A .
+B T X A M .
+T B X A M .
+B T X A M .
+M X T B A .
+M T X A B .
+B T X A M .
+B T X A M .
+X M A T B .
+X A T M B .
+M B T X A .
+M B T X A .
+B T X A M .
+T B X A M .
+T B X A M .
+T B X A M .
+B T X A M .
+break
+
+
+Joan Albert .
+Albert Merce .
+Merce Maria .
+Maria Biel .
+Biel Paula .
+Paula ClaraS  .
+ClaraS Guim .
+Guim Iu .
+Iu Joaquim .
+Joaquim Iker .
+Iker Ona .
+Ona Jana .
+Victor Laia .
+MdM Nil .
+Nil Victor .
+Jana MdM .
+Laia Benat .
+Benat Elia .
+Elia Joan .
+Helena Paula . 
+break
+
+Nil Victor .
+Victor Laia .
+Laia Benat .
+Benat Elia .
+Elia Joan .
+Joan Albert .
+Albert Merce .
+Merce Maria .
+Maria Biel .
+Biel Paula .
+Paula ClaraS .
+ClaraS Guim .
+Guim Iu .
+Iu Joaquim .
+Joaquim Iker .
+Iker Ona .
+Ona Jana .
+Jana MdM .
+MdM Nil .
+Albert Merce .
+break
+
+Jana .
+MdM .
+Nil .
+Victor .
+Laia .
+Benat .
+Elia .
+Joan .
+Albert .
+Merce .
+Maria .
+Biel .
+Paula .
+ClaraS .
+Guim .
+Iu .
+Joaquim .
+Iker .
+Ona .
+Maria .
+break
+
+M .
+- .
+- .
+A .
+- .
+B .
+X .
+- .
+M .
+M .
+- .
+- .
+A .
+- .
+X .
+- .
+- .
+M .
+- .
+- .
+break

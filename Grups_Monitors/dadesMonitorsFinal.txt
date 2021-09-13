@@ -1,0 +1,92 @@
+AlbertGuerra
+OnaJuan
+MerceCarrasco
+IuVilaseca
+MariadelMarGonzalez
+PaulaVicenc
+LaiaPeiro
+HelenaPrims
+JoanTibau
+MariaSaura
+BielFolch
+GuimIzquierdo
+NilOrtega
+break
+
+X A M T B .
+T M B A X .
+M X T A B .
+X M T A B .
+T X A M B .
+X T A M B .
+X M A T B .
+X T B A M .
+X A M T B .
+X A M T B .
+X M T B A .
+X M T B A .
+A X M T B .
+break
+
+
+NilOrtega JoanTibau .
+HelenaPrims IuVilaseca MerceCarrasco MariaSaura JoanTibau .
+OnaJuan MariadelmarGonzalez GuimIzquierdo HelenaPrims JoanTibau .
+OnaJuan MerceCarrasco PaulaVicenc .
+PaulaVicenc JoanTibau LaiaPeiro HelenaPrims BielFolch .
+MariadelMarGonzalez HelenaPrims JoanTibau BielFolch .
+JoanTibau MerceCarrasco PaulaVicenc HelenaPrims .
+OnaJuan JoanTibau MerceCarrasco .
+MariadelmarGonzalez LaiaPeiro .
+OnaJuan MercèCarrasco JoanTibau PaulaVicenç GuimIzuierdo .
+- .
+NilOrtega VictorEscolano MerceCarrasco  .
+AlbertGuerra JoanTibau OnaJuan GuimIzuierdo BielFolch .
+break
+
+- .
+AlbertGuerra .
+AlbertGuerra MariaSaura .
+- .
+AlbertGuerra OnaJuan .
+AlbertGuerra MariaSaura .
+MariaSaura .
+AlbertGuerra MariaSaura .
+AlbertGuerra .
+IuVilaseca AlbertGuerra .
+- .
+- .
+MariaSaura .
+break
+
+- .
+- .
+PaulaVicenc .
+HelenaPrims .
+MariaSaura .
+MerceCarrasaco .
+- .
+IuVilaseca .
+- .
+MariadelMar . 
+GuimIzquierdo .
+- .
+BielFolch .
+- .
+break
+
+- .
+- .
+X .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+X .
+A .
+A .
+- .
+break

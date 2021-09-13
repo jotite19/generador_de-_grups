@@ -1,0 +1,9 @@
+﻿  Monitor.cpp
+C:\Users\Joan\source\repos\Grups_Monitors\Grups_Monitors\Monitor.cpp(9,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Joan\source\repos\Grups_Monitors\Grups_Monitors\Monitor.cpp(23,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Joan\source\repos\Grups_Monitors\Grups_Monitors\Monitor.cpp(32,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Joan\source\repos\Grups_Monitors\Grups_Monitors\Monitor.cpp(41,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Joan\source\repos\Grups_Monitors\Grups_Monitors\Monitor.cpp(56,15): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Joan\source\repos\Grups_Monitors\Grups_Monitors\Monitor.cpp(59,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Joan\source\repos\Grups_Monitors\Grups_Monitors\Monitor.cpp(68,9): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+  Grups_Monitors.vcxproj -> C:\Users\Joan\source\repos\Grups_Monitors\Debug\Grups_Monitors.exe
