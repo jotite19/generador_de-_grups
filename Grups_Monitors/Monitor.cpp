@@ -10,7 +10,7 @@ int Monitor::updateHeuristica(std::vector<std::string> monitors, std::string gru
 	{
 		if (grup == p_grupsInfants[i])
 		{
-			h += 5 - i;
+			h += 2 - i;
 			break;
 		}
 	}
@@ -24,7 +24,7 @@ int Monitor::updateHeuristica(std::vector<std::string> monitors, std::string gru
 			{
 				if (moni == p_SConos[i])
 				{
-					h += 1;
+					h += 2;
 				}
 			}
 
