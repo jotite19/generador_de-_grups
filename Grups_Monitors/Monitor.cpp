@@ -33,7 +33,7 @@ int Monitor::updateHeuristica(std::vector<std::string> monitors, std::string gru
 			{
 				if (moni == p_NConos[i])
 				{
-					h -= 2;
+					h -= 3;
 				}
 			}
 
@@ -71,10 +71,6 @@ int Monitor::updateHeuristica(std::vector<std::string> monitors, std::string gru
 void Monitor::genMaxHeuristica()
 {	
 	int mh = 5;
-
 	mh += p_SConos.size();
-	mh += p_NConos.size();
-	mh += p_LConos.size();
-
 	max_heuristica = mh;
 }
