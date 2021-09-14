@@ -38,6 +38,6 @@ private:
 	int heuristicaBestGrup;
 
 	std::string nomsGrups = "BTMXA";
-	int nombreInfantsGrup[5] = { 2, 2, 3, 3, 3};
+	int nombreInfantsGrup[5] = { 3, 2, 2, 3, 3};
 };
 
